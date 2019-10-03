@@ -1,0 +1,21 @@
+{ 
+    "name": "domains/compresor",
+    "authors": [
+        {
+            "name": "Dimchik",
+            "email": "krokodilozavisimi@mail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            
+            "classes\\recount\\first\\": "classes/recount/first/",
+            "classes\\recount\\twice\\": "classes/recount/twice/",
+            "classes\\recount\\trihd\\": "classes/recount/trihd/"
+            
+            
+        }
+    },
+    "require": {}
+    
+}
